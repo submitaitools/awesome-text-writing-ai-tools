@@ -39,6 +39,7 @@ This list was curated by [SubmitAITools.org](https://submitaitools.org/) – you
 - [Scrivener](https://www.literatureandlatte.com/scrivener/overview)
 - [StudioBinder](https://www.studiobinder.com/)
 - [Celtx](https://www.celtx.com/)
+- [CreatorSkills](https://creatorskills.co) - Marketplace of 30+ downloadable AI skills for content creators including YouTube scripting, sponsorship analysis, and audience growth. Works with Claude and ChatGPT.
 
 ---
 
