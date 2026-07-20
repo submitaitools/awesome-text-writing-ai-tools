@@ -267,6 +267,7 @@ This list was curated by [SubmitAITools.org](https://submitaitools.org/) – you
 - [ContentBot](https://www.contentbot.ai/)
 - [Frase](https://www.frase.io/)
 - [Copy.ai](https://www.copy.ai/)
+- [Screpy AI Article Generator](https://screpy.com/feature/ai-article-generator/)
 
 ---
 
