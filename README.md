@@ -134,6 +134,7 @@ This list was curated by [SubmitAITools.org](https://submitaitools.org/) – you
 - [Descript](https://www.descript.com/)
 - [Otter.ai](https://otter.ai/)
 - [Trint](https://trint.com/)
+- [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) - Local-first CLI/MCP toolkit with transcription and caption workflows for coding-agent-driven video editing and assembly.
 - [Kapwing](https://www.kapwing.com/)
 
 ---
