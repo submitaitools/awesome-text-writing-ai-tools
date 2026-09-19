@@ -327,6 +327,7 @@ This list was curated by [SubmitAITools.org](https://submitaitools.org/) – you
 - [Sonix](https://sonix.ai/)
 - [Rev](https://www.rev.com/)
 - [Descript](https://www.descript.com/)
+- [Orkas VideoStudio](https://orkas.ai/agents/videostudio/?source=gh_satext) - VideoStudio transcribes and captions footage inside Orkas, an open-source, local-first desktop AI workforce coordinated by a Commander.
 
 ---
 
