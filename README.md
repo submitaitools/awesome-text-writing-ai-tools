@@ -27,6 +27,7 @@ This list was curated by [SubmitAITools.org](https://submitaitools.org/) – you
 - [Prepostseo](https://www.prepostseo.com/)
 - [WordAI](https://www.wordai.com/)
 - [RewriterTools](https://www.rewritertools.com/)
+- [HumanPen](https://humanpen.net/)
 
 ---
 
